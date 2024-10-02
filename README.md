@@ -1,6 +1,6 @@
 # Optimization of Public Transport Networks
 
-This repository hosts all materials produced within the scope of the master's thesis titled 
+This repository hosts all materials produced within the scope of the master thesis titled 
 
 
 ### Optimization of Public Transport Networks - Reinforcement Learning for Smart Mobility
