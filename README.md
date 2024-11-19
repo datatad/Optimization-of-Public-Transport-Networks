@@ -20,7 +20,11 @@ It includes:
 - **"latitude"**  
 - **"longitude"**
 
-`data/matrices/` contains the following information about each Carris line:  
+`data/matrices/` contains the following information for 144 locations:  
 - **distance by road matrix**  
 - **duration matrix**  
-- **straight-line distance matrix**  
+- **straight-line distance matrix**
+
+`data/northLine/` contains the following information:  
+- **stops from north zone**  
+- **unique stops from north zone**
