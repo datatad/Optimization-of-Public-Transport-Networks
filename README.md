@@ -12,3 +12,13 @@ It includes:
 - data
 - documentation
 - results
+
+
+
+The data under `data/carrisLines/` contains the following information about each Carris line:  
+- **"id"**  
+- **"public id"**  
+- **"name"**  
+- **"latitude"**  
+- **"longitude"**
+
