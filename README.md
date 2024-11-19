@@ -28,3 +28,6 @@ It includes:
 `data/northLine/` contains the following information:  
 - **stops from north zone**  
 - **unique stops from north zone**
+
+The Portuguese version of the dissertation (in the directory `dissertation/`)  contains a few small differences compared to the English version.  
+
