@@ -22,3 +22,8 @@ The data under `data/carrisLines/` contains the following information about each
 - **"latitude"**  
 - **"longitude"**
 
+
+The data under `data/matrices/` contains the following information about each Carris line:  
+- **distance by road matrix**  
+- **duration matrix**  
+- **straight-line distance matrix**  
