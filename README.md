@@ -13,17 +13,14 @@ It includes:
 - documentation
 - results
 
-
-
-The data under `data/carrisLines/` contains the following information about each Carris line:  
+`data/carrisLines/` contains the following information about each Carris line:  
 - **"id"**  
 - **"public id"**  
 - **"name"**  
 - **"latitude"**  
 - **"longitude"**
 
-
-The data under `data/matrices/` contains the following information about each Carris line:  
+`data/matrices/` contains the following information about each Carris line:  
 - **distance by road matrix**  
 - **duration matrix**  
 - **straight-line distance matrix**  
